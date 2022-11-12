@@ -1,4 +1,4 @@
-# run -> sudo python3 rename_my_files.py
+# run -> python3 rename_my_files.py
 
 import os
 import re
