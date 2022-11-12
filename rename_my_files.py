@@ -99,7 +99,7 @@ result = execute_command(mkdir)
 result = execute_command(mount)
 
 extensions = [
-    ".mkv", ".avi", ".mp4", ".m4v", "flv", "iso", "img", "mov", "mpeg", "ogv", "webm"
+    ".mkv", ".avi", ".mp4", ".m4v", ".flv", ".iso", ".img", ".mov", ".mpeg", ".mpg", ".ogv", ".webm"
 ]
 
 
